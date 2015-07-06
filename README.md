@@ -2,7 +2,11 @@
 
 <hr>
 
-携手贷 app 客户端！
+携手贷 
+www.xieshoud.com
+
+
+iOS app 客户端！互联网金融平台
 
 <img src=https://github.com/x1911/xieshoud/blob/master/screenshots/1.png width=320>
 
